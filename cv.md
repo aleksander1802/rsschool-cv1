@@ -37,3 +37,20 @@ I'm 28 years old. Worked as a forensic expert. But this job is not for me. Too e
     return arr1.map((item, i) => item === arr2[i]).every(item => item === true)
     }
 ```
+## Experience
+
+  * [CV.md](https://aleksander1802.github.io/rsschool-cv/cv)
+
+## Education 
+
+**Courses:**
+
+ * Udemy
+    * HTML / CSS / JavaScript
+    * React / Redux
+ * W3Schools
+    * HTML / CSS / JavaScript
+
+## Languages
+- **Russian** - native speaker
+- **English** - B1
